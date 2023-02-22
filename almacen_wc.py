@@ -31,15 +31,15 @@ print(porcentaje)
 Porcentaje_jean = Precio_jeans + (Precio_jeans * 0.062)
 print(Porcentaje_jean)
 
-porcentaje2 = "Porcentaje total de la disminucio del precio de tenis :"
+porcentaje2 = "Porcentaje total de la disminucio del precio de zapatos :"
 print(porcentaje2)
-porcentaje_tenis = Precio_tenis - (Precio_tenis * 0.008)
-print(porcentaje_tenis)
+porcentaje_zapatos = Precio_zapatos - (Precio_zapatos * 0.008)
+print(porcentaje_zapatos)
 
 precio_final = "El precio final del jean es :"
 print(precio_final)
 print(Porcentaje_jean)
 
-precio_final2 = "El precio final de los tenis es :"
+precio_final2 = "El precio final de los zapatos es :"
 print(precio_final2)
-print(porcentaje_tenis)
+print(porcentaje_zapatos)
