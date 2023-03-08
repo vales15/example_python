@@ -17,10 +17,10 @@ if  estructura_Datos_uno != estructura_Datos_Dos
 #if simple,if compuesto,if anidado
 dato_comparacion = 18 
 edad =20
-"""
+
 if edad >= dato_comparacion:
     print("Ingresar,disfrutar del evento")
-"""
+
     #if compuesto
 """
 if edad >= dato_comparacion:
@@ -37,8 +37,9 @@ if edad >= dato_comparacion and boleta and fecha_evento == fecha_comparacion:
     print("ingresar;disfrutar del evento")
 else:
     print("no ingresar")
-"""
 
+"""
+"""
 LOCALIDADES_DISPONIBLES = "Las localidades disponibles son:"
 localidades = "VIP,PREFERENCIAL,GENERAL,BAJA"
 print(LOCALIDADES_DISPONIBLES)
@@ -63,3 +64,4 @@ switch_semana = {
 	3: general,
 	4: baja
 }
+"""
